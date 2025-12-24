@@ -1,3 +1,33 @@
 # Wage-differences-between-natives-and-immigrants
-🇫🇷 Analyse des différences de salaire entre natifs et immigrés (Enquête Emploi 2018) 🇬🇧 Wage differential analysis between natives and immigrants (French Labor Force Survey 2018)  Projet complet d'analyse de données avec Python 
-Full data analysis project with Python Data cleaning • Statistical modeling • Visualization • Policy implications
+# 📊 Analyse des écarts salariaux entre natifs et immigrés en France (2018)
+
+![Python](https://img.shields.io/badge/python-3.11-blue.svg)
+![Pandas](https://img.shields.io/badge/pandas-2.0+-orange.svg)
+![Jupyter](https://img.shields.io/badge/jupyter-notebook-orange.svg)
+![Statsmodels](https://img.shields.io/badge/statsmodels-0.14+-green.svg)
+
+## 🎯 Contexte
+Analyse complète des données de l'Enquête Emploi 2018 (INSEE) pour mesurer et comprendre les différences de salaire horaire entre travailleurs natifs et immigrés en France.
+
+**Projet réalisé dans le cadre de mon Master 1**, transformé en étude opérationnelle avec implications concrètes pour les politiques publiques et les entreprises.
+
+## 📈 Résultats Clés
+- **Écart salarial brut** : 4.0% en défaveur des immigrés
+- **Écart ajusté** (âge, genre, éducation) : **8.34%** de pénalité immigrée
+- **Écart de genre** : Les femmes gagnent **14.40%** de moins que les hommes
+- **Retour sur éducation** : +6.63% par année d'études
+
+## 🛠️ Technologies Utilisées
+- **Python** : pandas, numpy, statsmodels, scipy
+- **Visualisation** : matplotlib, seaborn
+- **Environnement** : Jupyter Notebook
+- **Données** : INSEE - Enquête Emploi 2018
+
+## 🚀 Comment Reproduire l'Analyse
+
+### 1. Cloner le repository
+```bash
+git clone https://github.com/TONUSERNAME/Wage-differences-between-natives-and-immigrants
+.git
+cd Wage-differences-between-natives-and-immigrants
+
