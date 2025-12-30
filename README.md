@@ -27,7 +27,19 @@ Analyse complète des données de l'Enquête Emploi 2018 (INSEE) pour mesurer et
 
 ### 1. Cloner le repository
 ```bash
-git clone https://github.com/TONUSERNAME/Wage-differences-between-natives-and-immigrants
+git clone https://github.com/elachabiachraf/Wage-differences-between-natives-and-immigrants
 .git
 cd Wage-differences-between-natives-and-immigrants
+
+## 👨‍🎓 Auteur
+**Achraf EL ACHABI**  
+Étudiant en Master 1 Economy, Data and Transition 
+Recherche une alternance en tant que data analyst pour l'année académique 2026/2027 
+
+📧 **Email** : elachabiachrafs7@gmail.com 
+🔗 **LinkedIn** : www.linkedin.com/in/achraf-el-achabi-a1bb6a311
+📍 **Localisation** : 92300 Levallois-Perret, France
+
+## 📄 Licence
+Ce projet est publié sous licence MIT. Les données source sont la propriété de l'INSEE.
 
