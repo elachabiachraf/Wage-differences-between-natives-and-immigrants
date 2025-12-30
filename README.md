@@ -1,3 +1,13 @@
+
+![Python](https://img.shields.io/badge/Python-3.11-blue)
+![Pandas](https://img.shields.io/badge/Pandas-2.0+-orange)
+![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange)
+![License](https://img.shields.io/badge/License-MIT-green)
+![INSEE](https://img.shields.io/badge/Data-INSEE-lightgrey)
+
+📊 **Trending Topic** : #WageGap #FrenchData #EconomicInequality #DataForGood
+
+
 # Wage-differences-between-natives-and-immigrants
 # 📊 Analyse des écarts salariaux entre natifs et immigrés en France (2018)
 
